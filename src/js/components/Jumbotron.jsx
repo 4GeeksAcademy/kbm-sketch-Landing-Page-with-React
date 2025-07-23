@@ -4,7 +4,7 @@ import React from "react";
 const Jumbotron = () => {
     return (
         <div>
-            <div className="container-fluid mt-4 p-5 mb-4 bg-light text-dark">
+            <div className="container mt-4 p-5 mb-4 bg-light text-dark">
                 <h1>A Warm Welcome</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing.
                     Eligendi voluptate dolor culpa quis velit maiores!
